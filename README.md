@@ -1,3 +1,9 @@
+`Bahasa Pemrograman`
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![ASRV DEV](https://i.ibb.co.com/qgvjvS9/ascii-text-art.png)
+
 # Telegram Foto ke Link Bot
 
 Bot Telegram sederhana yang mengubah foto yang dikirim user menjadi link menggunakan layanan upload gambar `imgbb`.
