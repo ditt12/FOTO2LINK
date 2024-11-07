@@ -1,0 +1,17 @@
+{
+  "name": "foto-to-link-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk mengubah foto menjadi link",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.0",
+    "telegraf": "^4.12.3"
+  },
+  "author": "asrv",
+  "license": "MIT"
+}
