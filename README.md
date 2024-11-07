@@ -32,7 +32,7 @@ Bot Telegram sederhana yang mengubah foto yang dikirim user menjadi link menggun
    npm start
    ```
 
-3.Bot sudah siap dugunakan
+3.Bot sudah siap digunakan
 
 `SOSIAL MEDIA`
 
